@@ -10,4 +10,4 @@
  - FC-28 (Sensor tierra) JSON.
  - Weather Station API (openweathermap.org).
 
-Alejandro Mayró Lena.
+Alejandro Mayró L.
